@@ -1,0 +1,14 @@
+note\controller\NoteController.class
+note\repository\NoteRepositoryMock.class
+note\main\StartApp.class
+note\model\Medie.class
+note\model\Nota.class
+note\repository\ClasaRepositoryMock.class
+note\repository\ClasaRepository.class
+note\utils\Constants.class
+note\model\Elev.class
+note\repository\EleviRepositoryMock.class
+note\model\Corigent.class
+note\repository\NoteRepository.class
+note\utils\ClasaException.class
+note\repository\EleviRepository.class
